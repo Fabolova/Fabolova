@@ -1,12 +1,9 @@
-### Hi there 👋
+### Ciao, I'm Fabio 👋
 
+IT professional with 5 years of experience in Digital Transformation projects, mainly in the Telco field. I have been covering the role of Technical Analyst since January 2022, dealing with the evolution of IT systems that deal with the creation and management of the main Fastweb network architectures.
+tect.
 
-
-- 🔭 I’m currently working on Fastweb, an italian telco provider as Solution Architect
-- 🌱 I’m currently learning AWS, blockchain technology and...greek language!
-- 👯 I’m looking to collaborate on aws projects!
-- 🤔 I’m looking for help with everything mentioned above!
-- 💬 Ask me about everything
+- 🌱 I’m currently improving SQL and...greek language!
 - 📫 How to reach me: https://www.linkedin.com/in/fabio-lovascio/
 
 
