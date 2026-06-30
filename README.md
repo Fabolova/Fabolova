@@ -25,18 +25,18 @@
 ### 🎓 What I'm learning
 - 🧠 Pursuing an **Executive Master's in AI & Data Analytics for Business** at *Università degli Studi di Milano-Bicocca*.
 - 📊 Deepening my knowledge in **Machine Learning**, **Generative AI**, and **Data Governance**.
-- 🌱 Improving my **SQL** skills and... still learning the **Greek language** 🏛️!
+- 🌱 Improving my **Python** and **SQL** skills and... still learning the **Greek language** 🏛️!
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Spark" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <br>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white" alt="Confluence" />
   <img src="https://img.shields.io/badge/Agile_Delivery-E34F26?style=for-the-badge&logo=scrum&logoColor=white" alt="Agile" />
 </p>
-
----
-<p align="center"><i>"Designing architectures today, for the data of tomorrow."</i></p>
